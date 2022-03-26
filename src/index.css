@@ -1,0 +1,27 @@
+body {
+  width:1440;
+  height:4096px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: Open-sans;
+  src: url('./font/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+@font-face {
+  font-family: Roboto;
+  src: url('./font/Roboto-Regular.ttf');
+}
+@font-face {
+  font-family: Rubik;
+  src: url('./font/Rubik-VariableFont_wght.ttf');
+}
